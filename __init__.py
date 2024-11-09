@@ -13,7 +13,7 @@ from .utils import *
 
 bl_info = {
     "name": "Universal Remote",
-    "description": "Single line explaining what this script exactly does.",
+    "description": "Route your control inputs to anything in Blender!",
     "author": "hisanimations",
     "version": (1, 0),
     "blender": (4, 0, 0),
